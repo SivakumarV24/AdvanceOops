@@ -1,0 +1,15 @@
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\bin\Debug\net7.0\MetroApllication.exe
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\bin\Debug\net7.0\MetroApllication.deps.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\bin\Debug\net7.0\MetroApllication.runtimeconfig.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\bin\Debug\net7.0\MetroApllication.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\bin\Debug\net7.0\MetroApllication.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.csproj.AssemblyReference.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.AssemblyInfoInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.AssemblyInfo.cs
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.csproj.CoreCompileInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\refint\MetroApllication.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\MetroApllication.genruntimeconfig.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\MetroApllication\obj\Debug\net7.0\ref\MetroApllication.dll
